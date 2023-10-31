@@ -1,0 +1,7 @@
+Forgan Smith Building
+1
+1:10:4:3
+101:OTHER:20:0
+102:STUDY:20:0
+103:STUDY:5:1
+NoiseSensor:52,42,53,56:2
